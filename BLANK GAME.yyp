@@ -36,6 +36,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"o_bigCookie","path":"objects/o_bigCookie/o_bigCookie.yy",},},
+    {"id":{"name":"PENIS","path":"objects/PENIS/PENIS.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
